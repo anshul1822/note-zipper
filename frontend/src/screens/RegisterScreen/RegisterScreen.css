@@ -1,0 +1,17 @@
+.loginContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+
+.end {
+  font-size: 1.5vw;
+}
+
+.login{
+  color : blue;
+}
+
+.login:hover{
+  color : rgb(55, 153, 244);
+}
